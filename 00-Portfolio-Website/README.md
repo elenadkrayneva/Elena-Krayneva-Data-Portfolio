@@ -1,28 +1,33 @@
-# 💻 Portfolio Website
+# Portfolio Website
 
-## 🌟 Project Overview
-This repository contains the source code for my personal portfolio website, which showcases my professional experience, skills, and data analytics projects.
+## Project Overview
+This repository contains the source code for my personal portfolio website, designed to consolidate my career highlights into a professional digital presence.
 
-### **The Objective**
-Create a professional, high-performance, and responsive landing page that acts as a central hub for my career highlights.
+### Objective
+Provide a performance-driven, responsive platform that showcases my marketing analytics skills and strategic business cases.
 
----
-
-## 🛠️ Tech Stack
-- **Core:** HTML5, CSS3, JavaScript.
-- **Styling:** Vanilla CSS (Custom properties, Flexbox, Grid).
-- **Architecture:** Component-based design.
-- **Deployment:** Vercel / GitHub Pages.
+### Features
+- **Project Showcases:** Clear, navigable portfolio of project work.
+- **AI Career Insights:** Conversational interface for career path information.
+- **Responsive Architecture:** Optimized for desktop and mobile devices.
 
 ---
 
-## 📊 Features
-- **Interactive Project Showcase:** Horizontal carousels for easy navigation of case studies.
-- **AI Career Strategist:** Integrated chatbot to provide insights into my career path and skills.
-- **Responsive Design:** Optimized for mobile, tablet, and desktop views.
-- **Analytics Ready:** Integrated with Google Analytics (GA4) for performance tracking.
+## Tech Stack
+- **Structure:** HTML5, Semantic HTML.
+- **Logic:** Vanilla JavaScript.
+- **Styling:** Custom CSS3 with a focus on typography and clean layout.
+- **Tools:** Vercel (Deployment), Google Analytics (GA4).
 
 ---
-### 🔗 Links
+
+## Development Roadmap
+1. **Design:** Wire-framing and UI concept development.
+2. **Implementation:** Component-based development using custom CSS.
+3. **Analytics Integration:** Tracking user interaction through GA4.
+4. **Optimization:** Performance and accessibility testing.
+
+---
+### Links
 - [View Live Website](https://www.ekrayneva.space/)
-- [View GitHub Repository (This Repo)](https://github.com/ВАШ_НИК/Elena-Krayneva-Data-Portfolio)
+- [View Repository (This Repo)](https://github.com/elenadkrayneva/Elena-Krayneva-Data-Portfolio)

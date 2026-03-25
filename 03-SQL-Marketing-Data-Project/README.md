@@ -1,37 +1,39 @@
-# 📊 SQL Marketing Database Insights (Placeholder)
+# SQL Marketing Data Project (PostgreSQL)
 
-## 🌟 Project Overview
-This project uses SQL to query, manage, and extract business intelligence from a relational database, focusing on marketing performance and customer behavior.
+## Project Overview
+This project uses structured query language (SQL) to manage and extract business intelligence from relational databases, focusing on marketing performance and customer behavior. This section is currently a placeholder for upcoming work.
 
-### **The Problem**
-Design a database schema to track customer touchpoints, marketing campaign performance, and sales data.
+### Objective
+Leverage advanced SQL (JOINs, Window Functions, Subqueries) to answer critical marketing questions.
 
-### **The Objective**
-Leverage complex JOINs, Window Functions, and Subqueries to answer critical business questions.
-
----
-
-## 🛠️ Tools & Technologies
-- **SQL Dialects:** PostgreSQL, MySQL, T-SQL (SQL Server).
-- **Environment:** DBeaver, pgAdmin, SQL Workbench.
+### Common Use Cases
+- **Customer Lifetime Value (CLV):** Calculating the long-term value of a customer based on purchase history.
+- **Conversion Funnel Analysis:** Identifying drop-off points in the customer journey from registration to purchase.
+- **Sales Trend Analysis:** Tracking revenue and performance over time across different regions or product categories.
 
 ---
 
-## 📊 Project Structure
-- **/schema:** SQL scripts to create database tables and relationships.
-- **/scripts:** Advanced queries for KPI calculation, cohort analysis, and sales trends.
+## Tools and Environment
+- **Database:** PostgreSQL, MySQL.
+- **Environments:** DBeaver, pgAdmin.
+- **Languages:** SQL, PL/pgSQL.
+
+---
+
+## Project Structure
+- **/schema:** SQL scripts to create database tables and define relationships.
+- **/scripts:** Advanced queries for KPI calculation and marketing analysis.
 - **/reports:** Documentation of database schema and query results.
 
 ---
 
-## 🚀 Methodology
+## Methodology Roadmap
 1. **Schema Design:** Creating normalized tables (Dim/Fact) for optimized querying.
-2. **Data Loading:** Inserting mock data for a realistic business environment.
-3. **KPI Extraction:** Writing queries for CAC (Customer Acquisition Cost), CLV (Customer Lifetime Value), and ROI.
-4. **Cohort Analysis:** Segmenting users based on activation date and retention.
-5. **Insights & Recommendations:** Summarizing data-driven conclusions.
+2. **Data Mocking:** Inserting realistic business data for a production-like environment.
+3. **Query Development:** Writing complex queries for CAC (Customer Acquisition Cost) and ROI.
+4. **Insights:** Highlighting actionable trends and areas for optimization.
 
 ---
-### 🔗 Links
-- [View Schema Creation Draft](./schema/create_tables.sql)
+### Links
+- [View Schema Script](./schema/create_tables.sql)
 - [View Advanced SQL Queries](./scripts/advanced_analysis.sql)
