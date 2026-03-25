@@ -11,7 +11,6 @@ This repository showcases my expertise in marketing analytics, growth strategy, 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/google_analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/hubspot-FF7A59?style=flat&logo=hubspot&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4585F4?style=flat&logo=google-search-console&logoColor=white)
 
 ---
 
