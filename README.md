@@ -8,18 +8,24 @@ This repository showcases my expertise in marketing analytics, growth strategy, 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/google_analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/hubspot-FF7A59?style=flat&logo=hubspot&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4585F4?style=flat&logo=google-search-console&logoColor=white)
 
 ---
 
 ## Table of Contents
-- [Project 1: Digify Active – B2B Marketing Agency Project](./01-Digify-Active)
-- [Project 2: Portfolio Website](./00-Portfolio-Website)
-- [Project 3: Data Analysis Project (Python / R)](./02-Data-Analysis-Python-R)
-- [Project 4: SQL Marketing Data Project (PostgreSQL)](./03-SQL-Marketing-Data-Project)
-- [Project 5: Data Visualization Dashboards (Tableau / Power BI)](./04-Data-Visualization-Dashboards)
-- [Project 6: Marketing Analytics Dashboard](./05-Marketing-Analytics-Dashboard)
+
+### Current Projects
+- [Project 1: Personal Portfolio Website](#project-1-personal-portfolio-website)
+- [Project 2: Digify Active – B2B Marketing Agency Case Study](#project-2-digify-active--b2b-marketing-agency-case-study)
+
+### In Progress and Planned
+- [Data Analysis Project (Python / R)](#planned-projects)
+- [SQL Marketing Data Project (PostgreSQL)](#planned-projects)
+- [Data Visualization Dashboards (Tableau / Power BI)](#planned-projects)
+- [Marketing Analytics Dashboard](#planned-projects)
 
 ---
 
@@ -47,33 +53,27 @@ MSc Digital Marketing & Analytics student with a focus on marketing performance 
 
 ---
 
-## Works and Case Studies
+## Current Projects
 
-### Current Projects
-**Project 1: Personal Portfolio Website**
+### Project 1: Personal Portfolio Website
 [View Repository](./00-Portfolio-Website) | [Live Site](https://www.ekrayneva.space/)
 A digital presence developed as a **"Vibecoding"** experiment using the Antigravity AI agent. The project prioritizes rapid, iterative building of a professional interface, focusing on high-end aesthetics and responsive functionality.
 
-**Project 2: Digify Active – B2B Marketing Agency Case Study**
+### Project 2: Digify Active – B2B Marketing Agency Case Study
 [View Case Study](./01-Digify-Active)
 A comprehensive academic project involving the creation of a marketing agency for SME fitness businesses. This project includes market research, strategic positioning, and the execution of paid acquisition campaigns (Google Ads) with a focus on performance metrics like CTR and CPA.
 
 ---
 
-### Upcoming and Planned Projects
+## Planned Projects
 These projects are currently in development as part of my MSc in Digital Marketing & Analytics.
 
 - **Data Analysis Project (Python / R)**
-  Exploratory Data Analysis (EDA) and statistical modeling for marketing attribution.
 - **SQL Marketing Data Project (PostgreSQL)**
-  Relational database design for customer lifetime value (CLV) and cohort analysis.
 - **Data Visualization Dashboards (Tableau / Power BI)**
-  Full-funnel conversion visualization and performance tracking.
 - **Marketing Analytics Dashboard**
-  A unified view for multi-channel KPI monitoring and ROI analysis.
 
 ---
-
 
 ## Contact
 - Email: elena.d.krayneva@gmail.com
