@@ -47,27 +47,33 @@ MSc Digital Marketing & Analytics student with a focus on marketing performance 
 
 ---
 
-## Projects
+## Works and Case Studies
 
-### [Project 1: Digify Active – B2B Marketing Agency Project](./01-Digify-Active)
-An end-to-end marketing project involving market research, strategic positioning, and funnel design. The project included the implementation of Google Ads campaigns and a detailed performance analysis focusing on CTR, CPA, and conversion metrics.
+### Current Projects
+**Project 1: Personal Portfolio Website**
+[View Repository](./00-Portfolio-Website) | [Live Site](https://www.ekrayneva.space/)
+A digital presence developed as a **"Vibecoding"** experiment using the Antigravity AI agent. The project prioritizes rapid, iterative building of a professional interface, focusing on high-end aesthetics and responsive functionality.
 
-### [Project 2: Portfolio Website](./00-Portfolio-Website)
-Development of a professional portfolio website to consolidate projects, skills, and professional experience into a cohesive digital identity.
-
-### [Project 3: Data Analysis Project (Python / R)](./02-Data-Analysis-Python-R)
-*Proposed/Planned:* Implementation of data cleaning, exploratory analysis (EDA), and statistical modeling to solve specific business or marketing challenges using Python or R.
-
-### [Project 4: SQL Marketing Data Project (PostgreSQL)](./03-SQL-Marketing-Data-Project)
-*Proposed/Planned:* Designing and querying a relational database to extract marketing insights, including customer lifetime value (CLV) and cohort analysis.
-
-### [Project 5: Data Visualization Dashboards (Tableau / Power BI)](./04-Data-Visualization-Dashboards)
-*Proposed/Planned:* Creation of interactive dashboards to visualize marketing funnels and sales performance across different regions and channels.
-
-### [Project 6: Marketing Analytics Dashboard](./05-Marketing-Analytics-Dashboard)
-*Proposed/Planned:* Development of a comprehensive dashboard for tracking real-time marketing KPIs and monitoring campaign efficiency.
+**Project 2: Digify Active – B2B Marketing Agency Case Study**
+[View Case Study](./01-Digify-Active)
+A comprehensive academic project involving the creation of a marketing agency for SME fitness businesses. This project includes market research, strategic positioning, and the execution of paid acquisition campaigns (Google Ads) with a focus on performance metrics like CTR and CPA.
 
 ---
+
+### Upcoming and Planned Projects
+These projects are currently in development as part of my MSc in Digital Marketing & Analytics.
+
+- **Data Analysis Project (Python / R)**
+  Exploratory Data Analysis (EDA) and statistical modeling for marketing attribution.
+- **SQL Marketing Data Project (PostgreSQL)**
+  Relational database design for customer lifetime value (CLV) and cohort analysis.
+- **Data Visualization Dashboards (Tableau / Power BI)**
+  Full-funnel conversion visualization and performance tracking.
+- **Marketing Analytics Dashboard**
+  A unified view for multi-channel KPI monitoring and ROI analysis.
+
+---
+
 
 ## Contact
 - Email: elena.d.krayneva@gmail.com
