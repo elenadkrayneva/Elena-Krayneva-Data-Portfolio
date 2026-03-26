@@ -21,10 +21,10 @@ This repository showcases my expertise in marketing analytics, growth strategy, 
 - [Project 2: Digify Active – B2B Marketing Agency Case Study](#project-2-digify-active--b2b-marketing-agency-case-study)
 
 ### In Progress and Planned
-- [Data Analysis Project (Python / R)](#planned-projects)
-- [SQL Marketing Data Project (PostgreSQL)](#planned-projects)
-- [Data Visualization Dashboards (Tableau / Power BI)](#planned-projects)
-- [Marketing Analytics Dashboard](#planned-projects)
+- [Python / R: Data Analysis Project](#planned-projects)
+- [SQL: Marketing Data Project (PostgreSQL)](#planned-projects)
+- [Tableau / Power BI: Data Visualization Dashboards](#planned-projects)
+- [Marketing Analytics: KPI Dashboard](#planned-projects)
 
 ---
 
@@ -54,12 +54,18 @@ MSc Digital Marketing & Analytics student with a focus on marketing performance 
 
 ## Current Projects
 
-### Project 1: Personal Portfolio Website
-[View Repository](./00-Portfolio-Website) | [Live Site](https://www.ekrayneva.space/)
+### **Project 1: Personal Portfolio Website**
+*Stack: HTML | CSS | JS | Vercel | Vibecoding*
+- [Review Development Process HERE](./00-Portfolio-Website)
+- [View Live Website HERE](https://www.ekrayneva.space/)
+
 A digital presence developed as a **"Vibecoding"** experiment using the Antigravity AI agent. The project prioritizes rapid, iterative building of a professional interface, focusing on high-end aesthetics and responsive functionality.
 
-### Project 2: Digify Active – B2B Marketing Agency Case Study
-[View Case Study](./01-Digify-Active)
+### **Project 2: Digify Active – B2B Marketing Agency Case Study**
+*Stack: Strategy | SEO | SEM | Performance Analysis*
+- [Review Detailed Case Study HERE](./01-Digify-Active)
+- [View Project Site HERE](https://www.ekrayneva.space/)
+
 A comprehensive academic project involving the creation of a marketing agency for SME fitness businesses. This project includes market research, strategic positioning, and the execution of paid acquisition campaigns (Google Ads) with a focus on performance metrics like CTR and CPA.
 
 ---
@@ -67,10 +73,14 @@ A comprehensive academic project involving the creation of a marketing agency fo
 ## Planned Projects
 These projects are currently in development as part of my MSc in Digital Marketing & Analytics.
 
-- **Data Analysis Project (Python / R)**
-- **SQL Marketing Data Project (PostgreSQL)**
-- **Data Visualization Dashboards (Tableau / Power BI)**
-- **Marketing Analytics Dashboard**
+- **[Python / R] Data Analysis Project**
+  - Focus: Data cleaning, EDA, and statistical modeling.
+- **[SQL] Marketing Data Project**
+  - Focus: Customer Lifetime Value (CLV) and Cohort Analysis.
+- **[Tableau / Power BI] Data Visualization Dashboards**
+  - Focus: Funnel conversion and sales performance.
+- **[Analytics] Marketing Analytics Dashboard**
+  - Focus: Unified KPI tracking and ROI monitoring.
 
 ---
 
