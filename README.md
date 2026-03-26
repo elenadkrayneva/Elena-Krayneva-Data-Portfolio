@@ -21,7 +21,7 @@ This repository showcases my expertise in marketing analytics, growth strategy, 
 
 ### Current Projects
 - [Project 1: Personal Portfolio Website](#project-1-personal-portfolio-website)
-- [Project 2: Digify Active – B2B Marketing Agency Case Study](#project-2-digify-active--b2b-marketing-agency-case-study)
+- [Project 2: Digify Active – B2B Marketing Agency](#project-2-digify-active--b2b-marketing-agency-case-study)
 
 ### In Progress and Planned
 - [Python / R: Data Analysis Project](#planned-projects)
