@@ -64,7 +64,7 @@ MSc Digital Marketing & Analytics student with a focus on marketing performance 
 
 A digital presence developed as a **"Vibecoding"** experiment using the Antigravity AI agent. The project prioritizes rapid, iterative building of a professional interface, focusing on high-end aesthetics and responsive functionality.
 
-### **Project 2: Digify Active – B2B Marketing Agency Case Study**
+### **Project 2: Digify Active – B2B Marketing Agency**
 *Stack: Strategy | SEO | SEM | Performance Analysis*
 - [Review Detailed Case Study HERE](./01-Digify-Active)
 - [View Project Site HERE](https://www.ekrayneva.space/)
