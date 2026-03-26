@@ -23,6 +23,7 @@ This repository showcases my expertise in marketing analytics, growth strategy, 
 - [Project 1: Personal Portfolio Website](#project-1-personal-portfolio-website)
 - [Project 2: Digify Active – B2B Marketing Agency Case Study](#project-2-digify-active--b2b-marketing-agency-case-study)
 - [Project 3: Human-AI Ethics – Experimental Analysis of the "Kill Switch"](#project-3-human-ai-ethics--experimental-analysis-of-the-kill-switch)
+- [Project 4: NYC Airbnb Market Analysis – Pricing Drivers and Trends](#project-4-nyc-airbnb-market-analysis--pricing-drivers-and-trends)
 
 ### In Progress and Planned
 - [SQL: Marketing Data Project (PostgreSQL)](#planned-projects)
@@ -77,6 +78,13 @@ A comprehensive academic project involving the creation of a marketing agency fo
 - [View Analysis Presentation Deck HERE](./02-Human-AI-Interaction-R-Analysis/Blue%20Professional%20AI-Driven%20Business%20Solutions%20Presentation%20(1).pdf)
 
 A research-driven statistical analysis in R exploring the ethics of Human-AI Interaction. This project analyzed data from 260+ participants to determine factors affecting the willingness to terminate an AI agent ("Kill Switch"), with a focus on empathy, anthropomorphism, and perceived experience.
+
+### **Project 4: NYC Airbnb Market Analysis – Pricing Drivers and Trends**
+*Stack: Python | Pandas | Seaborn | Exploratory Data Analysis*
+- [Review Case Study and Python Notebook HERE](./03-Python-NYC-Airbnb-Analysis)
+- [View Presentation Deck HERE](./03-Python-NYC-Airbnb-Analysis/Black%20and%20White%20Photographer%20Portfolio%20Presentation,%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%20(1).pdf)
+
+An extensive EDA project using Python to uncover pricing trends in the New York City Airbnb market. The analysis identifies key determinants of listing prices, including location (borough-specific metrics), room types, and host availability, providing strategic insights for property management and market positioning.
 
 ---
 
