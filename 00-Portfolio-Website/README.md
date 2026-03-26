@@ -9,41 +9,42 @@ The primary goal of the website is to create a credible digital presence that ac
 - Structured presentation of past and current professional experience and case studies.
 - Efficient navigation for potential employers and collaborators to access key information.
 
-## Approach: Vibe Coding
-The website was developed using a "vibe coding" methodology—an iterative, prompt-based development process using AI agents. This approach allowed for:
-- **Rapid Prototyping:** Quick iteration of layouts and sections.
-- **Refinement through Analytical Thinking:** Defining the core information hierarchy before implementation.
-- **Continuous Improvement:** Improving site clarity and functionality through successive refinements of the development prompts.
+## Development Approach: Vibe Coding
+The website was developed using a "vibe coding" methodology—an iterative, prompt-based development process using the **Antigravity** AI agent. This approach shifted the focus from manual coding to strategic orchestration and refinement.
 
-## Key Decisions
-Throughout the development process, several strategic decisions were made to prioritize professionalism over decoration:
-- **Design Simplification:** Removal of unnecessary visual noise and over-designed elements to focus the viewer's attention on the content.
-- **Hierarchy and Readability:** Implementation of a strict typographic hierarchy to ensure ease of reading across all devices.
-- **Content over Visuals:** Prioritization of logical project structures and clear skill categorization over complex animations or decorative effects.
+### Role of Antigravity AI
+Antigravity served as the primary engine for rapid development, handling several distinct categories of tasks:
+- **UX/UI Design:** Developing the layout, refining the grid structure, and ensuring responsive behavior across all viewports.
+- **Content Strategy:** Writing and refining professional summaries, project descriptions, and skill categorizations to ensure clarity and professional tone.
+- **AI Chatbot Integration:** Designing and implementing a custom AI career strategist chatbot that provides interactive insights into my professional background.
+- **Visual Assets:** Generating and implementing high-quality, professional imagery using AI-driven asset creation tools.
+
+## Implementation Roadmap
+The development followed a multi-stage process to move from raw concept to a live, polished platform:
+
+1. **Information Architecture:** Defining the core sections (Identity, Skills, Projects, Contact) based on industry best practices for analytical roles.
+2. **Iterative Prototyping:** Using Antigravity to generate initial page structures and refining them through successive feedback loops.
+3. **UX Optimization:** Fine-tuning the navigation and layout responsiveness for a seamless user experience.
+4. **Chatbot and Asset Integration:** Embedding the AI career strategist and professional visual assets.
+5. **Deployment:** Automating the build and hosting process using **Vercel** for high performance and reliability.
+
+## Key Strategic Decisions
+Several decisions were made to prioritize professionalism and credibility:
+- **Design Simplification:** Deliberately removing decorative elements to minimize visual noise and highlight core content.
+- **Hierarchy and Readability:** Implementing a strict typographic system for maximum data readability.
+- **Infrastructure:** Choosing Vercel for its speed and seamless integration with the GitHub-led development workflow.
 
 ## Website Structure
-The site follows a consistent and repeatable structure for information clarity:
-- **Identity:** Introduction and high-level professional summary.
-- **Skills:** Categorized presentation of technical and strategic capabilities.
-- **Projects:** Detailed case studies following a standardized format.
-- **Contact:** Direct links to professional communication channels.
+- **Professional Identity:** Integrated summary and personal positioning.
+- **Skills Matrix:** Categorized technical and strategic capabilities.
+- **Project Showcase:** Standardized format for case studies and analytical work.
+- **AI Agent:** Interactive career strategist to answer recruiter queries.
 
-## Technology and Tools
-- **Core Stacks:** HTML5, CSS3, JavaScript.
-- **Development Tools:** AI-driven code generation (Antigravity), Vercel for deployment and hosting.
-- **Analytics:** Integration with Google Analytics (GA4) to monitor site performance.
-
-## Implementation Status
-Current functionality includes:
-- Core page structure and layout.
-- Implementation of the main navigation and sections (Identity, Skills, Projects).
-- Initial project content and professional summaries.
-
-## Future Development
-Planned updates include:
-- Integration of advanced data-driven case studies with embedded visualizations.
-- Expanded project documentation including code snippets and performance dashboards.
-- Further refinements to the interactive elements based on user interaction data.
+## Technology Stack
+- **Languages:** HTML5, CSS3, JavaScript.
+- **Development Engine:** Antigravity AI Agent.
+- **Hosting & CI/CD:** Vercel.
+- **Analytics:** Google Analytics (GA4).
 
 ---
 ### Links
