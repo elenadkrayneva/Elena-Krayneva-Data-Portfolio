@@ -1,6 +1,10 @@
-# Marketing Analytics and Business Strategy Portfolio
+# Elena Krayneva | Marketing Analytics and Business Strategy Portfolio
 
 This repository showcases my expertise in marketing analytics, growth strategy, and business consulting. It includes projects focused on data-driven decision making, KPI reporting, and strategic market analysis.
+
+**[Personal Website](https://www.ekrayneva.space/) | [LinkedIn](https://www.linkedin.com/in/elena-d-krayneva/) | [Email](mailto:elena.d.krayneva@gmail.com)**
+
+---
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -9,7 +13,6 @@ This repository showcases my expertise in marketing analytics, growth strategy, 
 ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/google_analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/hubspot-FF7A59?style=flat&logo=hubspot&logoColor=white)
 
 ---
@@ -55,7 +58,7 @@ MSc Digital Marketing & Analytics student with a focus on marketing performance 
 ## Current Projects
 
 ### **Project 1: Personal Portfolio Website**
-*Stack: HTML | CSS | JS | Vercel | Vibecoding*
+*Stack: HTML | CSS | JS | Vercel | Antigravity AI*
 - [Review Development Process HERE](./00-Portfolio-Website)
 - [View Live Website HERE](https://www.ekrayneva.space/)
 
@@ -74,17 +77,12 @@ A comprehensive academic project involving the creation of a marketing agency fo
 These projects are currently in development as part of my MSc in Digital Marketing & Analytics.
 
 - **[Python / R] Data Analysis Project**
-  - Focus: Data cleaning, EDA, and statistical modeling.
+  Focus: Data cleaning, EDA, and statistical modeling.
 - **[SQL] Marketing Data Project**
-  - Focus: Customer Lifetime Value (CLV) and Cohort Analysis.
+  Focus: Customer Lifetime Value (CLV) and Cohort Analysis.
 - **[Tableau / Power BI] Data Visualization Dashboards**
-  - Focus: Funnel conversion and sales performance.
+  Focus: Funnel conversion and sales performance.
 - **[Analytics] Marketing Analytics Dashboard**
-  - Focus: Unified KPI tracking and ROI monitoring.
+  Focus: Unified KPI tracking and ROI monitoring.
 
 ---
-
-## Contact
-- Email: elena.d.krayneva@gmail.com
-- LinkedIn: [elena-d-krayneva](https://www.linkedin.com/in/elena-d-krayneva/)
-- Website: [ekrayneva.space](https://www.ekrayneva.space/)
