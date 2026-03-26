@@ -66,8 +66,8 @@ A digital presence developed as a **"Vibecoding"** experiment using the Antigrav
 
 ### **Project 2: Digify Active – B2B Marketing Agency**
 *Stack: Strategy | SEO | SEM | Performance Analysis*
-- [Review Detailed Case Study HERE](./01-Digify-Active)
-- [View Project Site HERE](https://www.ekrayneva.space/)
+- [View Detailed Case Study HERE](./01-Digify-Active)
+- [View Project Site HERE](https://digifyactive.com/)
 
 A comprehensive academic project involving the creation of a marketing agency for SME fitness businesses. This project includes market research, strategic positioning, and the execution of paid acquisition campaigns (Google Ads) with a focus on performance metrics like CTR and CPA.
 
