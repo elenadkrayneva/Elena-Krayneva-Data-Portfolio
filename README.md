@@ -22,8 +22,9 @@ This repository showcases my expertise in marketing analytics, growth strategy, 
 ### Current Projects
 - [Project 1: Personal Portfolio Website](#project-1-personal-portfolio-website)
 - [Project 2: Digify Active – B2B Marketing Agency Case Study](#project-2-digify-active--b2b-marketing-agency-case-study)
-- [Project 3: Human-AI Ethics – Experimental Analysis of the "Kill Switch"](#project-3-human-ai-ethics--experimental-analysis-of-the-kill-switch)
-- [Project 4: NYC Airbnb Market Analysis – Pricing Drivers and Trends](#project-4-nyc-airbnb-market-analysis--pricing-drivers-and-trends)
+- [Project 3: Walmart A/B Testing – Product Bundling & Revenue Analysis](#project-3-walmart-ab-testing-product-bundling-and-revenue-optimization)
+- [Project 4: NYC Airbnb Market Analysis – Pricing Drivers and Trends](#project-4-nyc-airbnb-market-analysis)
+- [Project 5: Human-AI Ethics – Experimental Analysis of the "Kill Switch"]](#project-5-human-ai-interaction-analysis)
 
 ### In Progress and Planned
 - [SQL: Marketing Data Project (PostgreSQL)](#planned-projects)
@@ -72,12 +73,12 @@ A digital presence developed as a **"Vibecoding"** experiment using the Antigrav
 
 A comprehensive academic project involving the creation of a marketing agency for SME fitness businesses. This project includes market research, strategic positioning, and the execution of paid acquisition campaigns (Google Ads) with a focus on performance metrics like CTR and CPA.
 
-### **Project 3: Human-AI Ethics – Experimental Analysis of the "Kill Switch"**
-*Stack: R | Tidyverse | Stats | Data Ethics*
-- [Review Case Study and R Analysis HERE](./02-Human-AI-Interaction-R-Analysis)
-- [View Analysis Presentation Deck HERE](./02-Human-AI-Interaction-R-Analysis/Blue%20Professional%20AI-Driven%20Business%20Solutions%20Presentation%20(1).pdf)
+### **Project 3: Walmart A/B Testing – Product Bundling & Revenue Analysis**
+*Stack: R | Marketing Analytics | Causal Inference*
+- [Review Case Study and R Analysis HERE](./02-Walmart-AB-Testing-R)
+- [View Analysis Presentation HERE](./02-Walmart-AB-Testing-R/Causal%20Inference%20in%20marketing%20(1).pdf)
 
-A research-driven statistical analysis in R exploring the ethics of Human-AI Interaction. This project analyzed data from 260+ participants to determine factors affecting the willingness to terminate an AI agent ("Kill Switch"), with a focus on empathy, anthropomorphism, and perceived experience.
+A marketing-focused A/B test conducted in R to evaluate the effectiveness of product bundling recommendations at checkout. This analysis demonstrates how a treatment can be significantly beneficial for **Average Order Value (AOV)** even when it doesn't meaningfully impact basic conversion rates.
 
 ### **Project 4: NYC Airbnb Market Analysis – Pricing Drivers and Trends**
 *Stack: Python | Pandas | Seaborn | Exploratory Data Analysis*
@@ -85,6 +86,13 @@ A research-driven statistical analysis in R exploring the ethics of Human-AI Int
 - [View Presentation Deck HERE](./03-Python-NYC-Airbnb-Analysis/Black%20and%20White%20Photographer%20Portfolio%20Presentation,%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%20(1).pdf)
 
 An extensive EDA project using Python to uncover pricing trends in the New York City Airbnb market. The analysis identifies key determinants of listing prices, including location (borough-specific metrics), room types, and host availability, providing strategic insights for property management and market positioning.
+
+### **Project 5: Human-AI Ethics – Experimental Analysis of the "Kill Switch"**
+*Stack: R | Tidyverse | Stats | Data Ethics*
+- [Review Case Study and R Analysis HERE](./04-Human-AI-Interaction-R-Analysis)
+- [View Analysis Presentation Deck HERE](./04-Human-AI-Interaction-R-Analysis/Blue%20Professional%20AI-Driven%20Business%20Solutions%20Presentation%20(1).pdf)
+
+A research-driven statistical analysis in R exploring the ethics of Human-AI Interaction. This project analyzed data from 260+ participants to determine factors affecting the willingness to terminate an AI agent ("Kill Switch"), with a focus on empathy, anthropomorphism, and perceived experience.
 
 ---
 
