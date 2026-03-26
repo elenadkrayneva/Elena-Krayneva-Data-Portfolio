@@ -21,10 +21,10 @@ This repository showcases my expertise in marketing analytics, growth strategy, 
 
 ### Current Projects
 - [Project 1: Personal Portfolio Website](#project-1-personal-portfolio-website)
-- [Project 2: Digify Active – B2B Marketing Agency](#project-2-digify-active--b2b-marketing-agency-case-study)
+- [Project 2: Digify Active – B2B Marketing Agency Case Study](#project-2-digify-active--b2b-marketing-agency-case-study)
+- [Project 3: Human-AI Ethics – Experimental Analysis of the "Kill Switch"](#project-3-human-ai-ethics--experimental-analysis-of-the-kill-switch)
 
 ### In Progress and Planned
-- [Python / R: Data Analysis Project](#planned-projects)
 - [SQL: Marketing Data Project (PostgreSQL)](#planned-projects)
 - [Tableau / Power BI: Data Visualization Dashboards](#planned-projects)
 - [Marketing Analytics: KPI Dashboard](#planned-projects)
@@ -64,20 +64,25 @@ MSc Digital Marketing & Analytics student with a focus on marketing performance 
 
 A digital presence developed as a **"Vibecoding"** experiment using the Antigravity AI agent. The project prioritizes rapid, iterative building of a professional interface, focusing on high-end aesthetics and responsive functionality.
 
-### **Project 2: Digify Active – B2B Marketing Agency**
+### **Project 2: Digify Active – B2B Marketing Agency Case Study**
 *Stack: Strategy | SEO | SEM | Performance Analysis*
 - [View Detailed Case Study HERE](./01-Digify-Active)
 - [View Project Site HERE](https://digifyactive.com/)
 
 A comprehensive academic project involving the creation of a marketing agency for SME fitness businesses. This project includes market research, strategic positioning, and the execution of paid acquisition campaigns (Google Ads) with a focus on performance metrics like CTR and CPA.
 
+### **Project 3: Human-AI Ethics – Experimental Analysis of the "Kill Switch"**
+*Stack: R | Tidyverse | Stats | Data Ethics*
+- [Review Case Study and R Analysis HERE](./02-Human-AI-Interaction-R-Analysis)
+- [View Analysis Presentation Deck HERE](./02-Human-AI-Interaction-R-Analysis/Blue%20Professional%20AI-Driven%20Business%20Solutions%20Presentation%20(1).pdf)
+
+A research-driven statistical analysis in R exploring the ethics of Human-AI Interaction. This project analyzed data from 260+ participants to determine factors affecting the willingness to terminate an AI agent ("Kill Switch"), with a focus on empathy, anthropomorphism, and perceived experience.
+
 ---
 
 ## Planned Projects
 These projects are currently in development as part of my MSc in Digital Marketing & Analytics.
 
-- **[Python / R] Data Analysis Project**
-  Focus: Data cleaning, EDA, and statistical modeling.
 - **[SQL] Marketing Data Project**
   Focus: Customer Lifetime Value (CLV) and Cohort Analysis.
 - **[Tableau / Power BI] Data Visualization Dashboards**
